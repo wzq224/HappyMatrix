@@ -1,0 +1,21 @@
+﻿生成启动时间为 2014/1/24 星期五 22:04:20。
+     1>项目“D:\酷盘\技术资料\CPP\HappyMatrix\HappyMatrix\HappyMatrix.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\HappyMatrix.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\Microsoft_VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HappyMatrix.cpp
+         HappyMatrix.cpp
+       Link:
+         e:\Microsoft_VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\酷盘\技术资料\CPP\HappyMatrix\Debug\HappyMatrix.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HappyMatrix.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\酷盘\技术资料\CPP\HappyMatrix\Debug\HappyMatrix.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\酷盘\技术资料\CPP\HappyMatrix\Debug\HappyMatrix.lib" /MACHINE:X86 Debug\HappyMatrix.obj
+         LINK : 没有找到 D:\酷盘\技术资料\CPP\HappyMatrix\Debug\HappyMatrix.exe 或上一个增量链接没有生成它；正在执行完全链接
+         HappyMatrix.vcxproj -> D:\酷盘\技术资料\CPP\HappyMatrix\Debug\HappyMatrix.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\酷盘\技术资料\CPP\HappyMatrix\Debug\HappyMatrix.exe;#1" /manifest Debug\HappyMatrix.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\HappyMatrix.unsuccessfulbuild”。
+         正在对“Debug\HappyMatrix.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\酷盘\技术资料\CPP\HappyMatrix\HappyMatrix\HappyMatrix.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.66
